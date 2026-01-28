@@ -3,6 +3,9 @@
 This Streamlit application uses **K-Means Clustering** to segment wholesale customers
 based on their purchasing behavior.
 
+## Deployed: 
+ - https://kmeanscl.streamlit.app/
+
 ## 🎯 Objective
 - Identify hidden customer groups
 - Understand buying patterns
